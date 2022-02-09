@@ -30,7 +30,7 @@ body:
   - type: input
     id: metadata_link
     attributes:
-      label: MAPS netadata link
+      label: MAPS metadata link
       description: Please paste the link for the record you are reviewing here
       placeholder: eg. https://metadata.micronutrient.support/geonetwork/srv/eng/catalog.search#/metadata/0f3ee4b5-d765-4cba-b6f3-d1092941f4e5      
   - type: dropdown
